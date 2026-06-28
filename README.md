@@ -10,6 +10,6 @@ Be sure to read the Ncrack man page (https://nmap.org/ncrack/man.html) to fully 
 
 A tiny standalone clicker demo is available at:
 
-- `/home/runner/work/ncrack/ncrack/docs/basic_clicker.html`
+- `docs/basic_clicker.html`
 
 Open it in a browser and click the button to increase your score.
