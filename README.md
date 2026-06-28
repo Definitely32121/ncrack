@@ -6,3 +6,10 @@ Ncrack's features include a very flexible interface granting the user full contr
 
 Be sure to read the Ncrack man page (https://nmap.org/ncrack/man.html) to fully understand Ncrack usage. If you are a developer and want to write your own Ncrack modules, studying the Ncrack Developer's Guide (https://nmap.org/ncrack/devguide.html) would be the first step.
 
+## Demo: basic clicker
+
+A tiny standalone clicker demo is available at:
+
+- `docs/basic_clicker.html`
+
+Open it in a browser and click the button to increase your score.
